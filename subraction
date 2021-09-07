@@ -1,0 +1,9 @@
+public class subraction {
+    public static void main(String args[]) {
+      int A=24;
+      int B=10;
+      int C=A-B;
+
+      System.out.println("Sub of x-y = " + C);
+    }
+}
